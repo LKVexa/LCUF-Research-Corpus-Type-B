@@ -1,0 +1,26 @@
+{
+  "schema": "LCUF_REPOSITORY_ARCHIVE_INTEGRITY/1",
+  "edition": "Type B",
+  "corpus_version": "0.2.0",
+  "copyright": "Copyright (C) 2026 RUSSELL PHILIP SMITHSON",
+  "metadata_license": "GPL-3.0-only",
+  "archive": {
+    "filename": "LCUF_RESEARCH_CORPUS_B.zip",
+    "bytes": 14147582,
+    "sha256": "2cc998843b9f027643f78856b3fb96c49320cb33336810e1e254b2366d912071",
+    "internal_root": "LCUF_RESEARCH_CORPUS_0.2.0",
+    "file_entries": 762,
+    "uncompressed_file_bytes": 24875385
+  },
+  "verification": {
+    "status": "PASS",
+    "zip_crc_test": "PASS",
+    "duplicate_file_entries": 0,
+    "file_population_matches_original_corpus": true,
+    "all_file_hashes_match_original_corpus": true,
+    "files_independently_compared": 762
+  },
+  "publication_file_count": 12,
+  "scope": "Separate receipt for the current repository archive basename. Original sealed corpus and package receipts are unchanged. The archive retains its original per-file license terms.",
+  "authentication": "Unsigned integrity evidence; no author authentication or native/physical execution attestation."
+}
